@@ -1,0 +1,8 @@
+[Plymouth Theme]
+Name=kiro
+Description=Kiro Linux boot theme (derivative of alienware by adi1090x)
+ModuleName=script
+
+[script]
+ImageDir=/usr/share/plymouth/themes/kiro
+ScriptFile=/usr/share/plymouth/themes/kiro/kiro.script
