@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="kiro.jpg" alt="Kiro" width="220" />
+</p>
+
 # plymouth-theme-kiro
 
 A Plymouth boot splash theme for Arch / Kiro Linux based on the Alienware look — a polished, full-screen splash for the Kiro distro's boot sequence. Part of the `~/EDU/` learning series.
